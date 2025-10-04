@@ -1,7 +1,7 @@
-![alt text](<img/github-header-banner (1).png>)
+![alt text](<img/cr banner github.png>)
 
 
-![choirulrizki](img/idcamp25-7653ea0c-51e4-4e94-b849-6eb46513276d.jpg)
+![alt text](idcamp25.jpg)
 
 **🚀I'm Ready for The Next Al Innovator bersama program IDCamp 2025!🚀**
 _Dengan kurikulum lengkap mulai dari:_
@@ -22,7 +22,7 @@ Yuk, siapkan dirimu jadi bagian dari generasi digital Indonesia!✨_
 #
 #### 👦 About Me
 Hello World!!👋
-I am **Choirul Rizki**, a Bachelor of Economics graduate from UIN Kiai Ageng Muhammad Besari Ponorogo 🎓. I have a strong passion for Data Analysis and Data Science📊. I am skilled in processing, visualizing, and analyzing data to support data-driven decision-making 💡
+I am **Choirul Rizki**, a Bachelor of Economics graduate from UIN Kiai Ageng Muhammad Besari Ponorogo. I am passionate about Data Analytics and Data Scientist, with strong analytical and technical skills in data processing, visualization, and interpretation to support data-driven decision-making and business insights.
 
 #
 ##### 🌐 Socials
@@ -32,7 +32,8 @@ I am **Choirul Rizki**, a Bachelor of Economics graduate from UIN Kiai Ageng Muh
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"
   <a href="https://www.instagram.com/choirulriz_?igsh=NzRzNDFibnl5d2d3" target="_blank"  />
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <a href="https://www.choirulrizki022@gmail.com/" target="_blank">
+  <a href="https://
+www.choirulrizki022@gmail.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <a href="https://wa.me//62895630426259 " target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
