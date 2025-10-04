@@ -1,12 +1,4 @@
-# Hey!!👋 Whats Up?
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/choirulrizki/choirulrizki/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/choirulrizki/choirulrizki/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/choirulrizki/choirulrizki/output/pacman-contribution-graph.svg">
-</picture>
-
-###
+# Hello World👋 
 
 ### Come Join Us!!🤩
 ![alt text](idcamp25.jpg)
@@ -32,15 +24,14 @@ Yuk, siapkan dirimu jadi bagian dari generasi digital Indonesia!✨_
 #### About Me 👦 
 ![alt text](<img/github banner.png>)
 
+
 ##### Hello!!👋
 I am **Choirul Rizki**, a Bachelor of Economics at UIN Kiai Ageng Muhammad Besari Ponorogo. I am passionate about Data Analytics and Data Scientist in the FinTech Industry, with analytical and technical skills in data processing, visualization, and interpretation to support data-driven decision-making and generate business insights.
-
-#
-##### 🪼 Play Game With Me 
-
+##
+##### 🪼 Play Game With Me
 <img src="https://raw.githubusercontent.com/choirulrizki/choirulrizki/output/snake.svg" alt="Snake animation" />
 
-#
+##
 ##### 🌐 Socials 
 
 <div align="left">
@@ -55,7 +46,7 @@ www.choirulrizki022@gmail.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
 </div>
 
-# 
+##
 ##### 🤖 Data, Desaign & Machine Learning Tools
 
  <div align="left">
@@ -98,10 +89,10 @@ www.choirulrizki022@gmail.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-# 
+####
 _Another Tools: Ms. Office, Power BI, Tableau, Looker Studio_
 
-#
+##
 ##### 🔥 My Stats
 
 
@@ -109,8 +100,8 @@ _Another Tools: Ms. Office, Power BI, Tableau, Looker Studio_
   <img src="https://streak-stats.demolab.com?user=choirulrizki&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-#
-##### Quote of the Day
+##
+##### 📓 Quote of the Day
 _"The best investment you can make is an investment in yourself, the more you learn the more you earn" - **Warren Buffet**_
 
 
