@@ -1,35 +1,22 @@
 ![alt text](<img/github-header-banner (1).png>)
-<!--
-**choirulrizki/choirulrizki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 ![choirulrizki](img/idcamp25-7653ea0c-51e4-4e94-b849-6eb46513276d.jpg)
 
 **🚀I'm Ready for The Next Al Innovator bersama program IDCamp 2025!🚀**
 _Dengan kurikulum lengkap mulai dari:_
-🤖 Al Engineer
-⚡ Gen Al Engineer
-🔧 MLOps Engineer
-📊 Data Scientist
-📱 Al Android Developer
-📲 Al Multi-platform App Developer
-🎨 Al Front-End Web Developer
-🛠 Al Back-End Developer JavaScript
+- 🤖 Al Engineer
+- ⚡ Gen Al Engineer
+- 🔧 MLOps Engineer
+- 📊 Data Scientist
+- 📱 Al Android Developer
+- 📲 Al Multi-platform App Developer
+- 🎨 Al Front-End Web Developer
+- 🛠 Al Back-End Developer JavaScript
+
 _Semua bisa kamu pelajari GRATIS lewat IDCamp 2025.
 Yuk, siapkan dirimu jadi bagian dari generasi digital Indonesia!✨_
-Daftrkan Dirimu Sekarang: [Beasiswa IDCamp 2025](https://idcamp.ioh.co.id/login?referrer_id=5054546)
+**Daftrkan Dirimu Sekarang: [Beasiswa IDCamp 2025](https://idcamp.ioh.co.id/login?referrer_id=5054546)**
 
 #
 #### 👦 About Me
@@ -42,16 +29,12 @@ I am **Choirul Rizki**, a Bachelor of Economics graduate from UIN Kiai Ageng Muh
 <div align="left">
   <a href="https://www.linkedin.com/in/choirulrizki/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
   <a href="https://www.instagram.com/choirulriz_?igsh=NzRzNDFibnl5d2d3" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
   <a href="choirulrizki022@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
   <a href="wa.me//62895630426259 " target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
 </div>
 
 # 
@@ -108,17 +91,10 @@ _Another Tools: Ms. Office, Power BI, Tableau, Looker Studio_
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/choirulrizki/choirulrizki/output/pacman-contribution-graph.svg">
 </picture>
 
+#
 
 
-###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/ch8i">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=ch8i&count=3" alt="Spotify recently played"  />
-  </a>  
-</div>
-
-###
 
 
 
