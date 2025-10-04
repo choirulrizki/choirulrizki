@@ -81,6 +81,7 @@ I am **Choirul Rizki**, a Bachelor of Economics graduate from UIN Kiai Ageng Muh
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
+# 
 _Another Tools: Ms. Office, Power BI, Tableau, Looker Studio_
 
 #
