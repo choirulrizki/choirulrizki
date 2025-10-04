@@ -1,10 +1,11 @@
 # Hello World!!👋
-![alt text](<img/cr banner github.png>)
+![choirulrizki](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFlcGRzZWsxazV6M3dvNzNiZ2t3MGhwczUxemtqeDNjODl0b2RvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1n92hYPiFQ0efcCtrF/giphy.gif)
 
 ### Come Join Us!!🤩
 ![alt text](idcamp25.jpg)
 
 **🚀I'm Ready for The Next Al Innovator bersama program IDCamp 2025!🚀**
+
 _Dengan kurikulum lengkap mulai dari:_
 - 🤖 Al Engineer
 - ⚡ Gen Al Engineer
@@ -21,20 +22,23 @@ Yuk, siapkan dirimu jadi bagian dari generasi digital Indonesia!✨_
 ###### Daftarkan Dirimu Sekarang: [Beasiswa IDCamp 2025](https://idcamp.ioh.co.id/login?referrer_id=5054546)
 
 #
-#### 👦 About Me
-Hello!!👋
-I am **Choirul Rizki**, a Bachelor of Economics graduate from UIN Kiai Ageng Muhammad Besari Ponorogo. I am passionate about Data Analytics and Data Scientist, with strong analytical and technical skills in data processing, visualization, and interpretation to support data-driven decision-making and business insights.
+![alt text](<img/cr banner github.png>)
 #
-##### 🪼 Play Game With Me
+#### About Me 👦 
+##### Hallo!!👋
+I am **Choirul Rizki**, a Bachelor of Economics at UIN Kiai Ageng Muhammad Besari Ponorogo. I am passionate about Data Analytics and Data Scientist, with analytical and technical skills in data processing, visualization, and interpretation to support data-driven decision-making and business insights.
+
+#
+##### 🪼 Play Game With Me 
 
 <img src="https://raw.githubusercontent.com/choirulrizki/choirulrizki/output/snake.svg" alt="Snake animation" />
 
 #
-##### 🌐 Socials
+##### 🌐 Socials 
 
 <div align="left">
   <a href="https://www.linkedin.com/in/choirulrizki/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <a href="https://www.instagram.com/choirulriz_?igsh=NzRzNDFibnl5d2d3" target="_blank"  />
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <a href="https://
@@ -89,12 +93,9 @@ www.choirulrizki022@gmail.com/" target="_blank">
 
 # 
 _Another Tools: Ms. Office, Power BI, Tableau, Looker Studio_
-
 #
-_"The best investment you can make is an investment in yourself, the more you learn the more you earn" - Warren Buffet_
-
-
-
+##### Qutoe of the Day
+_"The best investment you can make is an investment in yourself, the more you learn the more you earn" - **Warren Buffet**_
 
 
 
