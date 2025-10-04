@@ -29,12 +29,12 @@ I am **Choirul Rizki**, a Bachelor of Economics graduate from UIN Kiai Ageng Muh
 
 <div align="left">
   <a href="https://www.linkedin.com/in/choirulrizki/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"
   <a href="https://www.instagram.com/choirulriz_?igsh=NzRzNDFibnl5d2d3" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <a href="choirulrizki022@gmail.com" target="_blank">
+  <a href="https://www.choirulrizki022@gmail.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <a href="wa.me//62895630426259 " target="_blank">
+  <a href="https://wa.me//62895630426259 " target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
 </div>
 
