@@ -1,3 +1,4 @@
+# Hello World!!👋
 ![alt text](<img/cr banner github.png>)
 
 
@@ -23,6 +24,13 @@ Yuk, siapkan dirimu jadi bagian dari generasi digital Indonesia!✨_
 #### 👦 About Me
 Hello World!!👋
 I am **Choirul Rizki**, a Bachelor of Economics graduate from UIN Kiai Ageng Muhammad Besari Ponorogo. I am passionate about Data Analytics and Data Scientist, with strong analytical and technical skills in data processing, visualization, and interpretation to support data-driven decision-making and business insights.
+
+#
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/choirulrizki/choirulrizki/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/choirulrizki/choirulrizki/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/choirulrizki/choirulrizki/output/pacman-contribution-graph.svg">
+</picture>
 
 #
 ##### 🌐 Socials
@@ -91,6 +99,7 @@ _Another Tools: Ms. Office, Power BI, Tableau, Looker Studio_
 <img src="https://raw.githubusercontent.com/choirulrizki/choirulrizki/output/snake.svg" alt="Snake animation" />
 
 ###
+
 
 
 
