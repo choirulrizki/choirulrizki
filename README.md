@@ -1,5 +1,4 @@
 # Hello World!!👋
-![choirulrizki](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFlcGRzZWsxazV6M3dvNzNiZ2t3MGhwczUxemtqeDNjODl0b2RvayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1n92hYPiFQ0efcCtrF/giphy.gif)
 
 ### Come Join Us!!🤩
 ![alt text](idcamp25.jpg)
