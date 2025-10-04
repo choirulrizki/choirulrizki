@@ -1,4 +1,12 @@
-# Hello World!!👋
+# Hey!!👋 Whats Up?
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/choirulrizki/choirulrizki/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/choirulrizki/choirulrizki/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/choirulrizki/choirulrizki/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ### Come Join Us!!🤩
 ![alt text](idcamp25.jpg)
@@ -21,11 +29,11 @@ Yuk, siapkan dirimu jadi bagian dari generasi digital Indonesia!✨_
 ###### Daftarkan Dirimu Sekarang: [Beasiswa IDCamp 2025](https://idcamp.ioh.co.id/login?referrer_id=5054546)
 
 #
-![alt text](<img/cr banner github.png>)
-#
 #### About Me 👦 
-##### Hallo!!👋
-I am **Choirul Rizki**, a Bachelor of Economics at UIN Kiai Ageng Muhammad Besari Ponorogo. I am passionate about Data Analytics and Data Scientist, with analytical and technical skills in data processing, visualization, and interpretation to support data-driven decision-making and business insights.
+![alt text](<img/github banner.png>)
+
+##### Hello!!👋
+I am **Choirul Rizki**, a Bachelor of Economics at UIN Kiai Ageng Muhammad Besari Ponorogo. I am passionate about Data Analytics and Data Scientist in the FinTech Industry, with analytical and technical skills in data processing, visualization, and interpretation to support data-driven decision-making and generate business insights.
 
 #
 ##### 🪼 Play Game With Me 
@@ -92,8 +100,17 @@ www.choirulrizki022@gmail.com/" target="_blank">
 
 # 
 _Another Tools: Ms. Office, Power BI, Tableau, Looker Studio_
+
 #
-##### Qutoe of the Day
+##### 🔥 My Stats
+
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=choirulrizki&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+#
+##### Quote of the Day
 _"The best investment you can make is an investment in yourself, the more you learn the more you earn" - **Warren Buffet**_
 
 
