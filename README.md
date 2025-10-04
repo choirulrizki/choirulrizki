@@ -16,7 +16,8 @@ _Dengan kurikulum lengkap mulai dari:_
 
 _Semua bisa kamu pelajari GRATIS lewat IDCamp 2025.
 Yuk, siapkan dirimu jadi bagian dari generasi digital Indonesia!✨_
-**Daftrkan Dirimu Sekarang: [Beasiswa IDCamp 2025](https://idcamp.ioh.co.id/login?referrer_id=5054546)**
+
+###### Daftarkan Dirimu Sekarang: [Beasiswa IDCamp 2025](https://idcamp.ioh.co.id/login?referrer_id=5054546)
 
 #
 #### 👦 About Me
@@ -91,7 +92,13 @@ _Another Tools: Ms. Office, Power BI, Tableau, Looker Studio_
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/choirulrizki/choirulrizki/output/pacman-contribution-graph.svg">
 </picture>
 
-#
+###
+
+<img src="https://raw.githubusercontent.com/choirulrizki/choirulrizki/output/snake.svg" alt="Snake animation" />
+
+###
+
+
 
 
 
