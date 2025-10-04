@@ -1,7 +1,7 @@
 # Hello World!!👋
 ![alt text](<img/cr banner github.png>)
 
-
+### Come Join Us!!🤩
 ![alt text](idcamp25.jpg)
 
 **🚀I'm Ready for The Next Al Innovator bersama program IDCamp 2025!🚀**
@@ -22,15 +22,12 @@ Yuk, siapkan dirimu jadi bagian dari generasi digital Indonesia!✨_
 
 #
 #### 👦 About Me
-Hello World!!👋
+Hello!!👋
 I am **Choirul Rizki**, a Bachelor of Economics graduate from UIN Kiai Ageng Muhammad Besari Ponorogo. I am passionate about Data Analytics and Data Scientist, with strong analytical and technical skills in data processing, visualization, and interpretation to support data-driven decision-making and business insights.
-
 #
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/choirulrizki/choirulrizki/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/choirulrizki/choirulrizki/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/choirulrizki/choirulrizki/output/pacman-contribution-graph.svg">
-</picture>
+##### 🪼 Play Game With Me
+
+<img src="https://raw.githubusercontent.com/choirulrizki/choirulrizki/output/snake.svg" alt="Snake animation" />
 
 #
 ##### 🌐 Socials
@@ -94,11 +91,7 @@ www.choirulrizki022@gmail.com/" target="_blank">
 _Another Tools: Ms. Office, Power BI, Tableau, Looker Studio_
 
 #
-##### 🪼 Play Game With Me
-
-<img src="https://raw.githubusercontent.com/choirulrizki/choirulrizki/output/snake.svg" alt="Snake animation" />
-
-###
+_"The best investment you can make is an investment in yourself, the more you learn the more you earn" - Warren Buffet_
 
 
 
