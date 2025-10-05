@@ -93,17 +93,6 @@ www.choirulrizki022@gmail.com/" target="_blank">
 _Another Tools: Ms. Office, Power BI, Tableau, Looker Studio, n8n Workflow Automation_
 
 ##
-##### 🎼 Just for Fun
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31ksp2jnrsct3yllue2g3tx45cl4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ksp2jnrsct3yllue2g3tx45cl4&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-##
 ##### 📓 The last part of my GitHub profile!
 ![choirulrizki](img/fx%20battom.png)
 
