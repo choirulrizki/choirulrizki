@@ -22,11 +22,11 @@ Yuk, siapkan dirimu jadi bagian dari generasi digital Indonesia!✨_
 
 #
 #### About Me 👦 
-![alt text](<img/github banner.png>)
+![alt text](img/topbanner.png)
 
 
 ##### Hello!!👋
-I am **Choirul Rizki**, a Bachelor of Economics at UIN Kiai Ageng Muhammad Besari Ponorogo. I am passionate about Data Analytics and Data Scientist in the FinTech Industry, with analytical and technical skills in data processing, visualization, and interpretation to support data-driven decision-making and generate business insights.
+I am **Choirul Rizki**, a Bachelor of Economics at UIN Kiai Ageng Muhammad Besari Ponorogo. I am passionate about _Data Analytics and Data Scientist in Bussines and Finance_, with analytical and technical skills in data processing, visualization, and interpretation to support _data-driven decision-making_ and generate business insights.
 ##
 ##### 🪼 Play Game With Me
 <img src="https://raw.githubusercontent.com/choirulrizki/choirulrizki/output/snake.svg" alt="Snake animation" />
@@ -90,7 +90,7 @@ www.choirulrizki022@gmail.com/" target="_blank">
 </div>
 
 ####
-_Another Tools: Ms. Office, Power BI, Tableau, Looker Studio_
+_Another Tools: Ms. Office, Power BI, Tableau, Looker Studio, n8n Automation_
 
 ##
 ##### 🔥 My Stats
@@ -102,8 +102,7 @@ _Another Tools: Ms. Office, Power BI, Tableau, Looker Studio_
 
 ##
 ##### 📓 Quote of the Day
-_"The best investment you can make is an investment in yourself, the more you learn the more you earn" - **Warren Buffet**_
-
+![choirulrizki](img/fx%20battom.png)
 
 
 
