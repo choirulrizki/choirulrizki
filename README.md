@@ -47,7 +47,7 @@ www.choirulrizki022@gmail.com/" target="_blank">
 </div>
 
 ##
-##### 🤖 Data, Desaign & Machine Learning Tools
+##### 🤖 Data, Machine Learning & Desaign Tools
 
  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
@@ -95,13 +95,12 @@ _Another Tools: Ms. Office, Power BI, Tableau, Looker Studio, n8n Workflow Autom
 ##
 ##### 🔥 My Stats
 
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=choirulrizki&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ##
-##### 📓 Quote of the Day
+##### 📓 The last part of my GitHub profile!
 ![choirulrizki](img/fx%20battom.png)
 
 
