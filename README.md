@@ -26,7 +26,7 @@ Yuk, siapkan dirimu jadi bagian dari generasi digital Indonesia!✨_
 
 
 ##### Hello!!👋
-I am **Choirul Rizki**, a Bachelor of Economics at UIN Kiai Ageng Muhammad Besari Ponorogo. I am passionate about _Data Analytics and Data Scientist in Bussines and Finance_, with analytical and technical skills in data processing, visualization, and interpretation to support _data-driven decision-making_ and generate business insights.
+I am **Choirul Rizki**, a Bachelor of Economics at UIN Kiai Ageng Muhammad Besari Ponorogo. I am passionate about _Data Analytics, Data Scientist and AI Workflow Automation_, with analytical and technical skills in data processing, visualization, interpretation to support _data-driven decision-making_ and generate business insights.
 ##
 ##### 🪼 Play Game With Me
 <img src="https://raw.githubusercontent.com/choirulrizki/choirulrizki/output/snake.svg" alt="Snake animation" />
@@ -90,7 +90,7 @@ www.choirulrizki022@gmail.com/" target="_blank">
 </div>
 
 ####
-_Another Tools: Ms. Office, Power BI, Tableau, Looker Studio, n8n Automation_
+_Another Tools: Ms. Office, Power BI, Tableau, Looker Studio, n8n Workflow Automation_
 
 ##
 ##### 🔥 My Stats
