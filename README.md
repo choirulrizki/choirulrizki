@@ -22,7 +22,7 @@ Yuk, siapkan dirimu jadi bagian dari generasi digital Indonesia!✨_
 
 #
 #### About Me 👦 
-![alt text](img/topbanner.png)
+![choirulrizki](img/top_banner.png)
 
 
 ##### Hello!!👋
