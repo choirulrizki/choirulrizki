@@ -1,5 +1,3 @@
-# Hello World👋 
-
 ### Come Join Us!!🤩
 ![alt text](idcamp25.jpg)
 
